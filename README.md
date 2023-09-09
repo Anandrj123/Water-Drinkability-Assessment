@@ -1,1 +1,1 @@
-# Water-Drinkability-Assessment
+# Water-Quality-Prediction-using-Machine-Learning
